@@ -1,0 +1,6 @@
+problems:
+empty.blade.php [sidebar] //master na diye korte hobe
+form_advanced [grid slider] // ki problem jani na
+maps/signup/ [original page ei problem]
+
+//login //404 //500 // [eigula master chara korsi]

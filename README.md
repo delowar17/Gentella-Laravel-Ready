@@ -1,0 +1,1 @@
+# Gentella-Laravel-Ready
